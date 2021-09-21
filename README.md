@@ -2,7 +2,7 @@
  ### User can import 1 to n decks to be shuffled and dealt to users. 
 
  # Usage
- ### **Note if you call shuffle with out build it will default to a 52 card deck.**
+ ### **Note if you call shuffle without build_deck it will default to a 52 card deck**
  ```
 from dealer import CardTable
 t = CardTable()
