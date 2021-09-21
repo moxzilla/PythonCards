@@ -14,5 +14,8 @@ deal_one_card(cards=1) #User can decided how many cards they would like to deal
 ### Running test:
 - **Make sure you are in python venv**
 ```
+source casino/bin/activate
+```
+```
 pytest -v
 ```
